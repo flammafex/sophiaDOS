@@ -178,7 +178,6 @@ Clout inverts Scarcity's conservation logic into propagation logic:
 The historical Carpocratians taught:
 - **Community of all things** — No one owns the commons
 - **Equality before creation** — Identity is not hierarchy
-- **Sophia (wisdom) as divine** — Knowledge liberates
 
 SophiaDOS is the implementation of that theology:
 
