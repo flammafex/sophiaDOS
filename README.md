@@ -1,6 +1,7 @@
 [<div align=center><img src="sophiados.webp">](https://carpocratian.org/en/church/)
 <div align=center><strong>Sophia Distributed Operating System</strong></div>
 <div align=center><em>Infrastructure for a world without surveillance</em></div>
+
 [<div align=center><br><img src="church.png" width=72 height=72>](https://carpocratian.org/en/church/)
 
 _A mission of [The Carpocratian Church of Commonality and Equality](https://carpocratian.org/en/church/)_.</div>
