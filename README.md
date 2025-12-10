@@ -258,6 +258,6 @@ All projects are open source under the same license.
 
 *"Surveillance is not safety. Privacy is not crime. Authorization is not identity."*
 
-**SophiaDOS**: Where Sophia meets DOS.
+**SophiaDOS**: "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you". &mdash;Lady Wisdom, Proverbs 1:23
 
 </div>
