@@ -189,7 +189,7 @@ SophiaDOS is the implementation of that theology:
 | No one owns value | Scarcity uses bearer tokens, not accounts |
 | No one owns attention | Clout gives you control of your graph |
 
-This isn't privacy tech dressed in religious language. The technology *is* the religious practice. Building infrastructure for a post-surveillance society is missionary work.
+Building infrastructure for a post-surveillance society is our missionary work.
 
 ---
 
